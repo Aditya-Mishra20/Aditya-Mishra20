@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">Full Stack Developer. Exploring AI and ML</h3>
 
-
-
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/Aditya-Mishra20/ecommerce-mern)
 
 - 🌱 I’m currently learning **DSA(C++) and Next.js**
@@ -33,11 +31,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-mishra20&show_icons=true&locale=en&layout=compact" alt="aditya-mishra20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-mishra20&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aditya-mishra20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-mishra20&show_icons=true&locale=en" alt="aditya-mishra20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-mishra20&show_icons=true&theme=tokyonight&locale=en" alt="aditya-mishra20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-mishra20&" alt="aditya-mishra20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-mishra20&theme=highcontrast" alt="aditya-mishra20" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-mishra20&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-mishra20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-mishra20" alt="aditya-mishra20" /></a> </p>
