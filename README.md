@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer. Exploring AI and ML</h3>
 
 
-🔭 I’m 21 yrs old Computer Science Student  <br>🌱 I’m currently learning DSA and Next.js<br>
+🔭 I’m 21 yrs old Computer Science Student  <br>
 🤗likes playing Table Tennis 🏓<br>
 📫 How to reach me Twitter and LinkedIn<br>
 
