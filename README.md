@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
-<h3 align="center">Full Stack Developer. Exploring AI and ML</h3>
+<h3 align="center">M.E.R.N Stack Developer. Exploring AI and ML</h3>
 
 
-🔭 I’m 21 yrs old Computer Science Student  <br>
+🔭 I’m 21 yrs old CS Undergrad <br>
 🤗likes playing Table Tennis 🏓<br>
-📫 How to reach me Twitter and LinkedIn<br>
 
 
 ## 🌐 Socials:
