@@ -2,9 +2,10 @@
 <h3 align="center">M.E.R.N Stack Developer. Exploring AI and ML</h3>
 
 
-🔭 I’m 21 yrs old CS Undergrad <br>
-🤗likes playing Table Tennis 🏓<br>
-
+🔭 I’m currently working on polishing web dev skills.<br/>
+👯 I’m looking to collaborate on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mishra-b16902262)<br/>
+🌱 I’m currently learning Adv. Backend and Data Structure and Algorithms  <br/>
+⚡ Likes to play Table Tennis🏓<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mishra-b16902262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aditya@023Adi) 
